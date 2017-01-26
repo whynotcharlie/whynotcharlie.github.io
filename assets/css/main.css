@@ -3029,8 +3029,7 @@
 
 	#banner {
 		background-attachment: scroll,							fixed;
-		background-color: #666;
-		background-image: url("images/overlay.png"), url("../../images/banner.jpg");
+		background-color: #141414;
 		background-position: top left,						center center;
 		background-repeat: repeat,							no-repeat;
 		background-size: auto,							cover;
@@ -3170,8 +3169,8 @@
 /* CTA */
 
 	#cta {
-		background: #e89980;
-		color: #f9e5df;
+		background: #B8D804;
+		color: #141414;
 		padding: 3.5em 0 4em 0;
 		text-align: center;
 	}
@@ -3192,7 +3191,7 @@
 		#cta .button {
 			box-shadow: none;
 			background: #fff;
-			color: #e89980;
+			color: #141414;
 		}
 
 		#cta input[type="text"],
